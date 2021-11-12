@@ -2,3 +2,6 @@ tests/*_actual_*.txt*
 tests/*_diff_*.txt
 asm-sim/asm
 asm-sim/sim
+
+# Mac files
+.DS_Store
