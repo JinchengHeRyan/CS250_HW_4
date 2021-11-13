@@ -233,7 +233,6 @@ end TCL_Generic;
     <comp lib="0" loc="(710,500)" name="Probe">
       <a name="facing" val="north"/>
       <a name="radix" val="16"/>
-      <a name="label" val="currentPC"/>
     </comp>
     <comp lib="0" loc="(350,380)" name="Tunnel">
       <a name="facing" val="east"/>
@@ -243,7 +242,6 @@ end TCL_Generic;
     <comp lib="0" loc="(1090,430)" name="Probe">
       <a name="facing" val="north"/>
       <a name="radix" val="16"/>
-      <a name="label" val="currentInstruction"/>
       <a name="labelloc" val="south"/>
     </comp>
     <comp lib="4" loc="(760,350)" name="ROM">
